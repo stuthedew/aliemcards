@@ -1,0 +1,3 @@
+[submodule "aliem_cards_submodule"]
+	path = aliem_cards_submodule
+	url = https://github.com/stuthedew/aliem_cards_submodule
